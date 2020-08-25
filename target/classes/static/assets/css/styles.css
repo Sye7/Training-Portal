@@ -1,0 +1,12 @@
+#titleH {
+  color: rgb(53,191,174);
+  padding-top: 20px;
+}
+
+.payment {
+}
+
+#cvv {
+  type: password;
+}
+
